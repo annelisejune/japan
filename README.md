@@ -1,5 +1,5 @@
-# React/Redux/Router Starter Project
+# Travel Japan - Tour Japan with us!
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> React, Redux, JSX, HTML5, SCSS
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+*Japan Tours*
